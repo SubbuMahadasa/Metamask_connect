@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.connect_btn{
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-size: 15px;
+
+}
